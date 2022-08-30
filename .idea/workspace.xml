@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea91a517-9ff0-428a-b2df-00dd6bea80dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Beginner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Professional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Scooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ld/Technician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/diagram.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/diagram.uml" afterDir="false" />
+    <list default="true" id="ea91a517-9ff0-428a-b2df-00dd6bea80dc" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/luciano/Documents/Java/exam-test/src/main/resources",
+    "last_opened_file_path": "/home/luciano/Documents/Java/exam-test/src/main/resources/diagram.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661831192831</updated>
-      <workItem from="1661831194010" duration="3901000" />
+      <workItem from="1661831194010" duration="4202000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1661835224599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661835224599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
