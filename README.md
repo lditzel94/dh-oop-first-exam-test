@@ -6,4 +6,4 @@ Modelo de primer parcial OOP
 
 ## Diagrama
 
-![](/home/luciano/Documents/Java/exam-test/src/main/resources/diagram.png)
+![](src/main/resources/diagram.png)
